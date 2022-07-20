@@ -20,7 +20,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-my Screenshot form my device
+#my Screenshot form my device
+
 ![basiclayoutcompose](app/src/main/res/drawable/basiclayoutcompose.jpeg)
 ## Image asset attributions
 
